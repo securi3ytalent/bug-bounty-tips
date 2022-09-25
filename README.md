@@ -1,45 +1,19 @@
 # bug-bounty-tips
 
-<h1 align="center"> 👑 What is KingOfBugBounty Project </h1> 
-
-Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. 👑
-
-## Stats King
-
-![OFJAAAH](https://github-readme-stats.vercel.app/api?username=KingOfBugbounty&show_icons=true&theme=dracula)
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=703ff752fd6f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
 ## Join Us
 
 [![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/joinchat/DN_iQksIuhyPKJL1gw0ttA)
-[![The King](https://aleen42.github.io/badges/src/twitter.svg)](https://twitter.com/ofjaaah)
+[![The King](https://aleen42.github.io/badges/src/twitter.svg)](https://twitter.com/devmehedi101)
 
 <div>
-  <a href="https://www.linkedin.com/in/atjunior/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-  <a href="https://www.youtube.com/c/OFJAAAH"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/devmehedi101/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+  <a href="https://www.youtube.com/channel/UCRoKZD3gp4CgHUXJcSmz6dQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
 ## BugBuntu Download 
 
 - [BugBuntu](https://sourceforge.net/projects/bugbuntu/)
-- [@bt0s3c](https://twitter.com/bt0s3c)
-- [@MrCl0wnLab](https://twitter.com/MrCl0wnLab)
 
-## Special thanks
-
-- [@bt0s3c](https://twitter.com/bt0s3c)
-- [@MrCl0wnLab](https://twitter.com/MrCl0wnLab)
-- [@Stokfredrik](https://twitter.com/stokfredrik)
-- [@Jhaddix](https://twitter.com/Jhaddix)
-- [@pdiscoveryio](https://twitter.com/pdiscoveryio)
-- [@TomNomNom](https://twitter.com/TomNomNom)
-- [@jeff_foley](https://twitter.com/@jeff_foley)
-- [@NahamSec](https://twitter.com/NahamSec)
-- [@j3ssiejjj](https://twitter.com/j3ssiejjj)
-- [@zseano](https://twitter.com/zseano)
-- [@pry0cc](https://twitter.com/pry0cc)
-- [@wellpunk](https://twitter.com/wellpunk)
 
 ## Scripts that need to be installed
 
