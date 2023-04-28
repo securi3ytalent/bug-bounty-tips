@@ -12,7 +12,7 @@
 
 ## Burp-Suite Downloads Now
 
-- [Burp-Suite](https://github.com/devmehedi101/Burp-Suite-Professional-latest-version-)
+- [Burp-Suite pro](https://github.com/devmehedi101/Burp-Suite-Professional-latest-version-)
 
 
 ## Scripts that need to be installed
