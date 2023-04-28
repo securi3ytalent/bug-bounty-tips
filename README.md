@@ -829,7 +829,7 @@ xargs -a recursivedomain -P50 -I@ sh -c 'openssl s_client -connect @:443 2>&1 '|
 ```bash
   https://t.me/Securi3yTalent
 ```
-
+<a href="https://www.buymeacoffee.com/devmehedi101" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 60px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## Feedback
 
