@@ -2,12 +2,12 @@
 
 ## Join Us
 
-[![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/joinchat/DN_iQksIuhyPKJL1gw0ttA)
+[![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/Securi3yTalent)
 [![The King](https://aleen42.github.io/badges/src/twitter.svg)](https://twitter.com/devmehedi101)
 
 <div>
   <a href="https://www.linkedin.com/in/devmehedi101/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-  <a href="https://www.youtube.com/channel/UCRoKZD3gp4CgHUXJcSmz6dQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.youtube.com/@SecurityTalent"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
 ## BugBuntu Download 
